@@ -161,7 +161,7 @@ GRANT SELECT ON FUTURE TABLES IN SCHEMA AIRBNB.DEV to ROLE REPORTER;
 ```
 uv sync
 # Activate virtualenv on Windows (PowerShell):
-venv\Scripts\activate
+.venv\Scripts\activate
 # Activate virtualenv on Mac:
 source venv/bin/activate
 ```
